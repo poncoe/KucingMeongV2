@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Kucing Meong</string>
+    <string name="nama_kucing">Nama Kucing</string>
+    <string name="deskripsi">Deskripsi</string>
+    <string name="tentang_app">Tentang Aplikasi</string>
+    <string name="abotmi">Arief Wardhana poncoe4mac@gmail.com</string>
+    <string name="tentang">Tentang Aplikasi</string>
+    <string name="sc">Soure Code</string>
+    <string name="keluar">Keluar</string>
+    <string name="penjelasan">Penjelasan</string>
 </resources>
