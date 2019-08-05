@@ -21,9 +21,9 @@ class DetailActivity : AppCompatActivity() {
         if (supportActionBar != null)
             supportActionBar!!.setDisplayHomeAsUpEnabled(true)
 
-        nameTxt = findViewById(R.id.nama_kucing);
-        usernameTxt = findViewById(R.id.isi);
-        img = findViewById(R.id.gambar);
+        nameTxt = findViewById(R.id.nama_kucing)
+        usernameTxt = findViewById(R.id.isi)
+        img = findViewById(R.id.gambar)
         //GET INTENT
         val i = this.intent
 
